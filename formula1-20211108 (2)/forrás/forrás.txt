@@ -1,9 +1,9 @@
 index.html
 
-Friss információk
+Friss informÃ¡ciÃ³k
 
 Bajnoki tabella
-Helyezés	Pilóták	Pont
+HelyezÃ©s	PilÃ³tÃ¡k	Pont
 L. Hamilton	306 hamilton.html
 S. Vettel	247 vettel.html
 V. Bottas	234
@@ -14,7 +14,7 @@ Mercedes	540
 Ferrari	395
 Red Bull	303
 Force India	147
-Forrás http://f1vilag.hu/hirek/hamilton-hajszallal-vettel-utolso-edzesen
+ForrÃ¡s http://f1vilag.hu/hirek/hamilton-hajszallal-vettel-utolso-edzesen
 
 hamilton.html
 
@@ -22,53 +22,53 @@ Lewis Hamilton
 
 This is a paragraph.
 
-Lewis Carl Davidson Hamilton (Stevenage, Hertfordshire, 1985. január 7. –) brit autóversenyzõ, háromszoros Formula-1 világbajnok. Jelenleg a Mercedes pilótája. Miután számos gokart-bajnokságot megnyert, Hamilton tizenkét éves korában szerzõdést kötött a McLaren-Mercedesszel, hogy késõbb a csapatnál fog autózni. Pályafutása során a brit Formula Renault-ban is versenyzett, ahol 2000-ben európai gokartbajnok lett. 2007-ben, a Formula–1-ben eltöltött elsõ évében remekül teljesített, és a világbajnokság második helyét szerezte meg, mindössze egy ponttal lemaradva Kimi Räikkönen mögött.[1] link az oldal aljára
- 2008-ban megszerezte pályafutása elsõ világbajnoki címét.[2] link az oldal aljára
- Õ tartja a legtöbb pole pozició rekordját, és a futamgyõzelmek tekintetében a második legeredményesebb a Formula 1-ben, elõtte a hétszeres világbajnok Michael Schumacher áll 91 gyõzelemmel.
+Lewis Carl Davidson Hamilton (Stevenage, Hertfordshire, 1985. januÃ¡r 7. â€“) brit autÃ³versenyzÅ‘, hÃ¡romszoros Formula-1 vilÃ¡gbajnok. Jelenleg a Mercedes pilÃ³tÃ¡ja. MiutÃ¡n szÃ¡mos gokart-bajnoksÃ¡got megnyert, Hamilton tizenkÃ©t Ã©ves korÃ¡ban szerzÅ‘dÃ©st kÃ¶tÃ¶tt a McLaren-Mercedesszel, hogy kÃ©sÅ‘bb a csapatnÃ¡l fog autÃ³zni. PÃ¡lyafutÃ¡sa sorÃ¡n a brit Formula Renault-ban is versenyzett, ahol 2000-ben eurÃ³pai gokartbajnok lett. 2007-ben, a Formulaâ€“1-ben eltÃ¶ltÃ¶tt elsÅ‘ Ã©vÃ©ben remekÃ¼l teljesÃ­tett, Ã©s a vilÃ¡gbajnoksÃ¡g mÃ¡sodik helyÃ©t szerezte meg, mindÃ¶ssze egy ponttal lemaradva Kimi RÃ¤ikkÃ¶nen mÃ¶gÃ¶tt.[1] link az oldal aljÃ¡ra
+ 2008-ban megszerezte pÃ¡lyafutÃ¡sa elsÅ‘ vilÃ¡gbajnoki cÃ­mÃ©t.[2] link az oldal aljÃ¡ra
+ Å tartja a legtÃ¶bb pole poziciÃ³ rekordjÃ¡t, Ã©s a futamgyÅ‘zelmek tekintetÃ©ben a mÃ¡sodik legeredmÃ©nyesebb a Formula 1-ben, elÅ‘tte a hÃ©tszeres vilÃ¡gbajnok Michael Schumacher Ã¡ll 91 gyÅ‘zelemmel.
 
-"Az emberek hibásan ítélik meg Lewist. Nekünk versenyzés kell, a nézõknek versenyzés kell. Ha megnézik, mi történik, hogyan viselkedik a többi pilóta, Lewis kimagaslik közülük, csakúgy, mint Sebastian és Jenson. Hadd versenyezzen csak, így szeretik az emberek" 
+"Az emberek hibÃ¡san Ã­tÃ©lik meg Lewist. NekÃ¼nk versenyzÃ©s kell, a nÃ©zÅ‘knek versenyzÃ©s kell. Ha megnÃ©zik, mi tÃ¶rtÃ©nik, hogyan viselkedik a tÃ¶bbi pilÃ³ta, Lewis kimagaslik kÃ¶zÃ¼lÃ¼k, csakÃºgy, mint Sebastian Ã©s Jenson. Hadd versenyezzen csak, Ã­gy szeretik az emberek" 
 
 Bernie Ecclestone
 
 2015
 
-A maláj nagydíj pódiumán. Sebastian Vettel mögött a második
+A malÃ¡j nagydÃ­j pÃ³diumÃ¡n. Sebastian Vettel mÃ¶gÃ¶tt a mÃ¡sodik
 
-A szezonnyitó Ausztrál Nagydíjon mesterhármassal nyitott, a folytatásban pedig egy újabb pole-t, és egy második helyet szerzett. Kínában ismét a legjobb helyrõl várhatta a rajtot, és sima futamgyõzelemmel készülhetett az éjszakai bahrein-i nagydíjra. Bahreinben újabb pole-pozíciót szerzett, amit futamgyõzelemre is váltott, ám Spanyolországban mind az idõmérõn, mind pedig a futamon alulmaradt csapattársával, Rosberggel szemben, és a második helyen ért célba. Barcelona után 111 ponttal áll a világbajnoki tabella élén, 20 pont elõnnyel csapattársa elõtt.
+A szezonnyitÃ³ AusztrÃ¡l NagydÃ­jon mesterhÃ¡rmassal nyitott, a folytatÃ¡sban pedig egy Ãºjabb pole-t, Ã©s egy mÃ¡sodik helyet szerzett. KÃ­nÃ¡ban ismÃ©t a legjobb helyrÅ‘l vÃ¡rhatta a rajtot, Ã©s sima futamgyÅ‘zelemmel kÃ©szÃ¼lhetett az Ã©jszakai bahrein-i nagydÃ­jra. Bahreinben Ãºjabb pole-pozÃ­ciÃ³t szerzett, amit futamgyÅ‘zelemre is vÃ¡ltott, Ã¡m SpanyolorszÃ¡gban mind az idÅ‘mÃ©rÅ‘n, mind pedig a futamon alulmaradt csapattÃ¡rsÃ¡val, Rosberggel szemben, Ã©s a mÃ¡sodik helyen Ã©rt cÃ©lba. Barcelona utÃ¡n 111 ponttal Ã¡ll a vilÃ¡gbajnoki tabella Ã©lÃ©n, 20 pont elÅ‘nnyel csapattÃ¡rsa elÅ‘tt.
 
-2015. május 20-án bejelentették, hogy Hamilton újabb három évre szerzõdést kötött a Mercedesszel. Fizetése évi 100 millió dollár lesz, amivel õ lesz a legjobban fizetett pilóta a teljes mezõnyben.
+2015. mÃ¡jus 20-Ã¡n bejelentettÃ©k, hogy Hamilton Ãºjabb hÃ¡rom Ã©vre szerzÅ‘dÃ©st kÃ¶tÃ¶tt a Mercedesszel. FizetÃ©se Ã©vi 100 milliÃ³ dollÃ¡r lesz, amivel Å‘ lesz a legjobban fizetett pilÃ³ta a teljes mezÅ‘nyben.
 
-Gyõzelem hazai közönség elõtt
+GyÅ‘zelem hazai kÃ¶zÃ¶nsÃ©g elÅ‘tt
 
-Monacóban megszerezte a pole-pozíciót, pályafutása során elõször, majd a verseny nagy részében az élen is autózott. Ám a 64. körben Max Verstappen és Romain Grosjean balesete miatt beküldték a biztonsági autót, a csapat pedig eltaktikázta magát, és kihívták Hamiltont kerékcserére, aminek következtében Rosberg és Vettel is elé került. A brit nem is tudta a verseny hátrelévõ köreiben megelõzni egyiküket sem, és végül csupán a dobogó legalsó fokára állhatott fel. A következõ kanadai futamon azonban újra gyõzni tudott. Ausztriában az idõmérõn az utolsó mért körén kicsúszott, ám a jó körön lévõ Rosberg ugyanígy járt, így Hamilton megszerezte a pole-t.
+MonacÃ³ban megszerezte a pole-pozÃ­ciÃ³t, pÃ¡lyafutÃ¡sa sorÃ¡n elÅ‘szÃ¶r, majd a verseny nagy rÃ©szÃ©ben az Ã©len is autÃ³zott. Ãm a 64. kÃ¶rben Max Verstappen Ã©s Romain Grosjean balesete miatt bekÃ¼ldtÃ©k a biztonsÃ¡gi autÃ³t, a csapat pedig eltaktikÃ¡zta magÃ¡t, Ã©s kihÃ­vtÃ¡k Hamiltont kerÃ©kcserÃ©re, aminek kÃ¶vetkeztÃ©ben Rosberg Ã©s Vettel is elÃ© kerÃ¼lt. A brit nem is tudta a verseny hÃ¡trelÃ©vÅ‘ kÃ¶reiben megelÅ‘zni egyikÃ¼ket sem, Ã©s vÃ©gÃ¼l csupÃ¡n a dobogÃ³ legalsÃ³ fokÃ¡ra Ã¡llhatott fel. A kÃ¶vetkezÅ‘ kanadai futamon azonban Ãºjra gyÅ‘zni tudott. AusztriÃ¡ban az idÅ‘mÃ©rÅ‘n az utolsÃ³ mÃ©rt kÃ¶rÃ©n kicsÃºszott, Ã¡m a jÃ³ kÃ¶rÃ¶n lÃ©vÅ‘ Rosberg ugyanÃ­gy jÃ¡rt, Ã­gy Hamilton megszerezte a pole-t.
 
-[1] A 2007-es világbajnokság végeredménye (német nyelven). www.motorsport-total.com. (Hozzáférés: 2009. március 22.)
+[1] A 2007-es vilÃ¡gbajnoksÃ¡g vÃ©geredmÃ©nye (nÃ©met nyelven). www.motorsport-total.com. (HozzÃ¡fÃ©rÃ©s: 2009. mÃ¡rcius 22.)
 
-[2] A 2008-as világbajnokság végeredménye (német nyelven). www.motorsport-total.com. (Hozzáférés: 2009. március 22.)
+[2] A 2008-as vilÃ¡gbajnoksÃ¡g vÃ©geredmÃ©nye (nÃ©met nyelven). www.motorsport-total.com. (HozzÃ¡fÃ©rÃ©s: 2009. mÃ¡rcius 22.)
 
-Forrás https://hu.wikipedia.org/wiki/Lewis_Hamilton
+ForrÃ¡s https://hu.wikipedia.org/wiki/Lewis_Hamilton
 
 vettel.html
 
-Fõoldal
+FÅ‘oldal
 
-Életrajzi elemek
+Ã‰letrajzi elemek
 
-2 generált bekezdés
+2 generÃ¡lt bekezdÃ©s
 
 Rekordok
 
-Legfiatalabb pole-pozíciós	21 év, 72 nap
-Legfiatalabb futamgyõztes	21 év, 73 nap
-Legfiatalabb világbajnok	23 év, 132 nap
-Legfiatalabb kétszeres világbajnok	24 év, 98 nap
-Legfiatalabb háromszoros világbajnok	25 év, 138 nap
-Legfiatalabb négyszeres világbajnok	26 év, 116 nap
-Legtöbb pole-pozíció egy szezonban	15
-Legfiatalabb világbajnok 2. helyezett	22 év, 22 nap
-Legfiatalabb szabadedzésen résztvevõ	19 év, 55 nap
-Legtöbb dobogó egy szezonban	17
-Legnagyobb pontelõny világbajnokságban	122 pont
-Legtöbb pont egy szezonban	397 pont
+Legfiatalabb pole-pozÃ­ciÃ³s	21 Ã©v, 72 nap
+Legfiatalabb futamgyÅ‘ztes	21 Ã©v, 73 nap
+Legfiatalabb vilÃ¡gbajnok	23 Ã©v, 132 nap
+Legfiatalabb kÃ©tszeres vilÃ¡gbajnok	24 Ã©v, 98 nap
+Legfiatalabb hÃ¡romszoros vilÃ¡gbajnok	25 Ã©v, 138 nap
+Legfiatalabb nÃ©gyszeres vilÃ¡gbajnok	26 Ã©v, 116 nap
+LegtÃ¶bb pole-pozÃ­ciÃ³ egy szezonban	15
+Legfiatalabb vilÃ¡gbajnok 2. helyezett	22 Ã©v, 22 nap
+Legfiatalabb szabadedzÃ©sen rÃ©sztvevÅ‘	19 Ã©v, 55 nap
+LegtÃ¶bb dobogÃ³ egy szezonban	17
+Legnagyobb pontelÅ‘ny vilÃ¡gbajnoksÃ¡gban	122 pont
+LegtÃ¶bb pont egy szezonban	397 pont
 
-Forrás https://hu.wikipedia.org/wiki/Sebastian_Vettel
+ForrÃ¡s https://hu.wikipedia.org/wiki/Sebastian_Vettel

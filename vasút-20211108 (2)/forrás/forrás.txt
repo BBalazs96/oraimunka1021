@@ -1,59 +1,59 @@
 hirek1.html
 
-Tájékoztató a tanulók/hallgatók utazási kedvezményének igénybevételérõl
+TÃ¡jÃ©koztatÃ³ a tanulÃ³k/hallgatÃ³k utazÃ¡si kedvezmÃ©nyÃ©nek igÃ©nybevÃ©telÃ©rÅ‘l
 
 2017.09.15.
 
-Felhívjuk Tisztelt Utasaink szíves figyelmét arra, hogy a 85/2007. (IV. 25.) Korm. rendeletben meghatározott, tanulói, hallgatói jogviszony jogcímén igénybe vehetõ közforgalmú személyszállítási utazási kedvezmények kizárólag érvényes diákigazolvánnyal vagy a 362/2011. (XII. 30.) Korm. rendelet (a továbbiakban: Rendelet) szerinti igazolással vehetõk igénybe.
+FelhÃ­vjuk Tisztelt Utasaink szÃ­ves figyelmÃ©t arra, hogy a 85/2007. (IV. 25.) Korm. rendeletben meghatÃ¡rozott, tanulÃ³i, hallgatÃ³i jogviszony jogcÃ­mÃ©n igÃ©nybe vehetÅ‘ kÃ¶zforgalmÃº szemÃ©lyszÃ¡llÃ­tÃ¡si utazÃ¡si kedvezmÃ©nyek kizÃ¡rÃ³lag Ã©rvÃ©nyes diÃ¡kigazolvÃ¡nnyal vagy a 362/2011. (XII. 30.) Korm. rendelet (a tovÃ¡bbiakban: Rendelet) szerinti igazolÃ¡ssal vehetÅ‘k igÃ©nybe.
 
-Az igazolást a jogosult kérésére az oktatási intézmény állítja ki.
+Az igazolÃ¡st a jogosult kÃ©rÃ©sÃ©re az oktatÃ¡si intÃ©zmÃ©ny Ã¡llÃ­tja ki.
 
-Kérjük, hogy az oktatási intézménynél az igazolás igénylésekor szíveskedjenek minden esetben jelezni, hogy az igazolást a közforgalmú személyszállítási utazási kedvezmények igénybevétele célból kérik, mivel az oktatási intézmények ettõl eltérõ célokra is állítanak ki igazolásokat, azonban azok nem alkalmasak a kedvezményjogosultság igazolására.
-A Rendeletben meghatározott adattartalmú igazolást az oktatási intézmények - a 2017. szeptemberben bevezetett - ún. Oktatási igazolványok intézményi adminisztrációs rendszerébõl (OKTIG rendszer) nyomtatják ki. Az igazolásnak több típusa van a kiállítás egyes céljaitól függõen, de a diákok ezen igazolás mindegyik típusát használhatják az utazási kedvezmények igénybevételére. Ez az igazolás QR kódot tartalmaz.
-Az oktatási intézmények által a korábbi központi felületrõl kinyomtatott, a Rendelet korábbi hatályossága alá tartozó igazolások csak 2017. október 31. napjáig vannak érvényben.
-A fenti két fajta igazoláson kívül más igazolást, az oktatási intézmény ügyintézõje által akár számítógéppel, akár kézzel elõállított dokumentumot a közlekedési szolgáltató nem köteles elfogadni. Ebbe a körbe tartozik az ún. KIR SZNY felületén nyomtatható iskolalátogatási igazolás, az intézmény befogadó nyilatkozata és egyéb dokumentumok is. 
-Tájékoztatjuk, hogy az Oktatási Hivatal felhívta az oktatási intézmények figyelmét arra, hogy az igazolást kérõ diákoktól minden esetben kérdezzék meg, hogy az igazolást milyen célból kérik, és a célnak megfelelõ dokumentumot állítsák ki számukra, továbbá felkérte az intézményeket arra, hogy a diákok és szülõk által jól látható helyen helyezzék el a jelen tájékoztatás mellékletében is szereplõ, utazási kedvezmények érvényesítésére alkalmas, illetve arra nem alkalmas igazolások mintáit.
+KÃ©rjÃ¼k, hogy az oktatÃ¡si intÃ©zmÃ©nynÃ©l az igazolÃ¡s igÃ©nylÃ©sekor szÃ­veskedjenek minden esetben jelezni, hogy az igazolÃ¡st a kÃ¶zforgalmÃº szemÃ©lyszÃ¡llÃ­tÃ¡si utazÃ¡si kedvezmÃ©nyek igÃ©nybevÃ©tele cÃ©lbÃ³l kÃ©rik, mivel az oktatÃ¡si intÃ©zmÃ©nyek ettÅ‘l eltÃ©rÅ‘ cÃ©lokra is Ã¡llÃ­tanak ki igazolÃ¡sokat, azonban azok nem alkalmasak a kedvezmÃ©nyjogosultsÃ¡g igazolÃ¡sÃ¡ra.
+A Rendeletben meghatÃ¡rozott adattartalmÃº igazolÃ¡st az oktatÃ¡si intÃ©zmÃ©nyek - a 2017. szeptemberben bevezetett - Ãºn. OktatÃ¡si igazolvÃ¡nyok intÃ©zmÃ©nyi adminisztrÃ¡ciÃ³s rendszerÃ©bÅ‘l (OKTIG rendszer) nyomtatjÃ¡k ki. Az igazolÃ¡snak tÃ¶bb tÃ­pusa van a kiÃ¡llÃ­tÃ¡s egyes cÃ©ljaitÃ³l fÃ¼ggÅ‘en, de a diÃ¡kok ezen igazolÃ¡s mindegyik tÃ­pusÃ¡t hasznÃ¡lhatjÃ¡k az utazÃ¡si kedvezmÃ©nyek igÃ©nybevÃ©telÃ©re. Ez az igazolÃ¡s QR kÃ³dot tartalmaz.
+Az oktatÃ¡si intÃ©zmÃ©nyek Ã¡ltal a korÃ¡bbi kÃ¶zponti felÃ¼letrÅ‘l kinyomtatott, a Rendelet korÃ¡bbi hatÃ¡lyossÃ¡ga alÃ¡ tartozÃ³ igazolÃ¡sok csak 2017. oktÃ³ber 31. napjÃ¡ig vannak Ã©rvÃ©nyben.
+A fenti kÃ©t fajta igazolÃ¡son kÃ­vÃ¼l mÃ¡s igazolÃ¡st, az oktatÃ¡si intÃ©zmÃ©ny Ã¼gyintÃ©zÅ‘je Ã¡ltal akÃ¡r szÃ¡mÃ­tÃ³gÃ©ppel, akÃ¡r kÃ©zzel elÅ‘Ã¡llÃ­tott dokumentumot a kÃ¶zlekedÃ©si szolgÃ¡ltatÃ³ nem kÃ¶teles elfogadni. Ebbe a kÃ¶rbe tartozik az Ãºn. KIR SZNY felÃ¼letÃ©n nyomtathatÃ³ iskolalÃ¡togatÃ¡si igazolÃ¡s, az intÃ©zmÃ©ny befogadÃ³ nyilatkozata Ã©s egyÃ©b dokumentumok is. 
+TÃ¡jÃ©koztatjuk, hogy az OktatÃ¡si Hivatal felhÃ­vta az oktatÃ¡si intÃ©zmÃ©nyek figyelmÃ©t arra, hogy az igazolÃ¡st kÃ©rÅ‘ diÃ¡koktÃ³l minden esetben kÃ©rdezzÃ©k meg, hogy az igazolÃ¡st milyen cÃ©lbÃ³l kÃ©rik, Ã©s a cÃ©lnak megfelelÅ‘ dokumentumot Ã¡llÃ­tsÃ¡k ki szÃ¡mukra, tovÃ¡bbÃ¡ felkÃ©rte az intÃ©zmÃ©nyeket arra, hogy a diÃ¡kok Ã©s szÃ¼lÅ‘k Ã¡ltal jÃ³l lÃ¡thatÃ³ helyen helyezzÃ©k el a jelen tÃ¡jÃ©koztatÃ¡s mellÃ©kletÃ©ben is szereplÅ‘, utazÃ¡si kedvezmÃ©nyek Ã©rvÃ©nyesÃ­tÃ©sÃ©re alkalmas, illetve arra nem alkalmas igazolÃ¡sok mintÃ¡it.
 
-forrás https://www2.gysev.hu/rolunk/sajto/hirek/tajekoztato-a-tanulokhallgatok-utazasi-kedvezmenyenek-igenybevetelerol
+forrÃ¡s https://www2.gysev.hu/rolunk/sajto/hirek/tajekoztato-a-tanulokhallgatok-utazasi-kedvezmenyenek-igenybevetelerol
 
 VISSZA
 
 hirek2.html
 
-Megérkezett az elsõ két Siemens Vectron a GYSEV flottájába
+MegÃ©rkezett az elsÅ‘ kÃ©t Siemens Vectron a GYSEV flottÃ¡jÃ¡ba
 
 2017.05.23.
 
-Megérkezett az elsõ két Siemens Vectron villamos mozdony a GYSEV Zrt.-hez. A vasúttársaság márciusban jelentette be, hogy 9 darab új vontató jármûvet rendel a Siemenstõl. A tervek szerint a gyártó még az idei évben leszállítja az összes, megrendelt Vectron-t. A jármûvek a hazai személyszállításban és a nemzetközi árufuvarozásban teljesítenek majd szolgálatot.
-A GYSEV Zrt. és a Siemens képviselõi márciusban írták alá a beszerzési szerzõdést öt, ill. opcionálisan további négy villamos mozdony megrendelésérõl. Azóta biztossá vált, hogy a vasúttársaság él opciós jogával, így összesen kilenc Siemens Vectron villamos mozdonyból állhat a GYSEV flottája. A gyártó cég hónapokkal a leszállítási határidõ elõtt átadta az elsõ két Vectron MS mozdonyt a GYSEV számára. Az elsõ, új mozdonyt május 23-án, ünnepélyesen felavatták a soproni vasútállomáson.
-"Hosszú ideje terveztük és gondos munkával készítettük elõ a vontató jármûparkunk fejlesztését. Véleményem szerint a lehetõ legjobb megoldást választottuk, hiszen kedvezõ feltételekkel vettünk fel hitelt, a rendelkezésünkre álló forrásból pedig az európai vasútvonalakon hosszú évek óta bizonyító Siemens Vectron mozdonyokat vásároltunk. Dinamikusan fejlõdõ vasúttársaságunknak nagy szüksége volt az új vontató jármûvekre. Külön öröm számomra, hogy várhatóan még az idei évben az összes mozdonyt leszállítja a Siemens" - mondta Kövesdi Szilárd, a GYSEV Zrt. vezérigazgatója.
-A vasúttársaság állományába kerülõ elsõ két mozdony háromáramnemû, így az európai vasútvonalak többségén képes közlekedni. Ezeken kívül még egy háromáramnemû, ill. hat darab kétáramnemû mozdonyt rendelt meg a GYSEV, utóbbiak közül kettõben dízel segédhajtás is rendelkezésre áll majd. A mozdonyokat elsõsorban a nemzetközi árufuvarozásban használja majd a társaság, de az új vontatójármûvek megjelennek a hazai InterCity-forgalomban is. Ennek megfelelõen a GYSEV Zrt. és a GYSEV CARGO Zrt. logóinak szín és formavilágát is megjeleníti az új, zöld sárga és fehér alapszínekre festett mozdonyok arculata.
-"Nagy elismerés számunkra, hogy immáron 130 éve megbízható partner lehetünk az ország vasúti közlekedésének fejlesztésében. 1887-ben az elsõ villamos vontatású közúti vasutat, vagyis az elsõ budapesti villamost a Siemens hozta létre, ma pedig a GYSEV flottájának legújabb Vectron mozdonyát adhatjuk át. Vállalatunk újra bebizonyította, hogy kiemelkedõ teljesítményû vasúti jármûveivel méltán járul hozzá a hazai villamos hajtású vasúti közlekedés modernizációjához" - mondta el Dr. Ludvig László, a Siemens Zrt. Mobility divíziójának vezetõje.
-Az elsõ két mozdony az 471 500-as és 471 501-es pályaszámot kapta. Jelenleg a jármûvek hatósági engedélyeztetési eljárása zajlik, a két új villamos mozdony várhatóan júniusban állhat forgalomba.
+MegÃ©rkezett az elsÅ‘ kÃ©t Siemens Vectron villamos mozdony a GYSEV Zrt.-hez. A vasÃºttÃ¡rsasÃ¡g mÃ¡rciusban jelentette be, hogy 9 darab Ãºj vontatÃ³ jÃ¡rmÅ±vet rendel a SiemenstÅ‘l. A tervek szerint a gyÃ¡rtÃ³ mÃ©g az idei Ã©vben leszÃ¡llÃ­tja az Ã¶sszes, megrendelt Vectron-t. A jÃ¡rmÅ±vek a hazai szemÃ©lyszÃ¡llÃ­tÃ¡sban Ã©s a nemzetkÃ¶zi Ã¡rufuvarozÃ¡sban teljesÃ­tenek majd szolgÃ¡latot.
+A GYSEV Zrt. Ã©s a Siemens kÃ©pviselÅ‘i mÃ¡rciusban Ã­rtÃ¡k alÃ¡ a beszerzÃ©si szerzÅ‘dÃ©st Ã¶t, ill. opcionÃ¡lisan tovÃ¡bbi nÃ©gy villamos mozdony megrendelÃ©sÃ©rÅ‘l. AzÃ³ta biztossÃ¡ vÃ¡lt, hogy a vasÃºttÃ¡rsasÃ¡g Ã©l opciÃ³s jogÃ¡val, Ã­gy Ã¶sszesen kilenc Siemens Vectron villamos mozdonybÃ³l Ã¡llhat a GYSEV flottÃ¡ja. A gyÃ¡rtÃ³ cÃ©g hÃ³napokkal a leszÃ¡llÃ­tÃ¡si hatÃ¡ridÅ‘ elÅ‘tt Ã¡tadta az elsÅ‘ kÃ©t Vectron MS mozdonyt a GYSEV szÃ¡mÃ¡ra. Az elsÅ‘, Ãºj mozdonyt mÃ¡jus 23-Ã¡n, Ã¼nnepÃ©lyesen felavattÃ¡k a soproni vasÃºtÃ¡llomÃ¡son.
+"HosszÃº ideje terveztÃ¼k Ã©s gondos munkÃ¡val kÃ©szÃ­tettÃ¼k elÅ‘ a vontatÃ³ jÃ¡rmÅ±parkunk fejlesztÃ©sÃ©t. VÃ©lemÃ©nyem szerint a lehetÅ‘ legjobb megoldÃ¡st vÃ¡lasztottuk, hiszen kedvezÅ‘ feltÃ©telekkel vettÃ¼nk fel hitelt, a rendelkezÃ©sÃ¼nkre Ã¡llÃ³ forrÃ¡sbÃ³l pedig az eurÃ³pai vasÃºtvonalakon hosszÃº Ã©vek Ã³ta bizonyÃ­tÃ³ Siemens Vectron mozdonyokat vÃ¡sÃ¡roltunk. Dinamikusan fejlÅ‘dÅ‘ vasÃºttÃ¡rsasÃ¡gunknak nagy szÃ¼ksÃ©ge volt az Ãºj vontatÃ³ jÃ¡rmÅ±vekre. KÃ¼lÃ¶n Ã¶rÃ¶m szÃ¡momra, hogy vÃ¡rhatÃ³an mÃ©g az idei Ã©vben az Ã¶sszes mozdonyt leszÃ¡llÃ­tja a Siemens" - mondta KÃ¶vesdi SzilÃ¡rd, a GYSEV Zrt. vezÃ©rigazgatÃ³ja.
+A vasÃºttÃ¡rsasÃ¡g Ã¡llomÃ¡nyÃ¡ba kerÃ¼lÅ‘ elsÅ‘ kÃ©t mozdony hÃ¡romÃ¡ramnemÅ±, Ã­gy az eurÃ³pai vasÃºtvonalak tÃ¶bbsÃ©gÃ©n kÃ©pes kÃ¶zlekedni. Ezeken kÃ­vÃ¼l mÃ©g egy hÃ¡romÃ¡ramnemÅ±, ill. hat darab kÃ©tÃ¡ramnemÅ± mozdonyt rendelt meg a GYSEV, utÃ³bbiak kÃ¶zÃ¼l kettÅ‘ben dÃ­zel segÃ©dhajtÃ¡s is rendelkezÃ©sre Ã¡ll majd. A mozdonyokat elsÅ‘sorban a nemzetkÃ¶zi Ã¡rufuvarozÃ¡sban hasznÃ¡lja majd a tÃ¡rsasÃ¡g, de az Ãºj vontatÃ³jÃ¡rmÅ±vek megjelennek a hazai InterCity-forgalomban is. Ennek megfelelÅ‘en a GYSEV Zrt. Ã©s a GYSEV CARGO Zrt. logÃ³inak szÃ­n Ã©s formavilÃ¡gÃ¡t is megjelenÃ­ti az Ãºj, zÃ¶ld sÃ¡rga Ã©s fehÃ©r alapszÃ­nekre festett mozdonyok arculata.
+"Nagy elismerÃ©s szÃ¡munkra, hogy immÃ¡ron 130 Ã©ve megbÃ­zhatÃ³ partner lehetÃ¼nk az orszÃ¡g vasÃºti kÃ¶zlekedÃ©sÃ©nek fejlesztÃ©sÃ©ben. 1887-ben az elsÅ‘ villamos vontatÃ¡sÃº kÃ¶zÃºti vasutat, vagyis az elsÅ‘ budapesti villamost a Siemens hozta lÃ©tre, ma pedig a GYSEV flottÃ¡jÃ¡nak legÃºjabb Vectron mozdonyÃ¡t adhatjuk Ã¡t. VÃ¡llalatunk Ãºjra bebizonyÃ­totta, hogy kiemelkedÅ‘ teljesÃ­tmÃ©nyÅ± vasÃºti jÃ¡rmÅ±veivel mÃ©ltÃ¡n jÃ¡rul hozzÃ¡ a hazai villamos hajtÃ¡sÃº vasÃºti kÃ¶zlekedÃ©s modernizÃ¡ciÃ³jÃ¡hoz" - mondta el Dr. Ludvig LÃ¡szlÃ³, a Siemens Zrt. Mobility divÃ­ziÃ³jÃ¡nak vezetÅ‘je.
+Az elsÅ‘ kÃ©t mozdony az 471 500-as Ã©s 471 501-es pÃ¡lyaszÃ¡mot kapta. Jelenleg a jÃ¡rmÅ±vek hatÃ³sÃ¡gi engedÃ©lyeztetÃ©si eljÃ¡rÃ¡sa zajlik, a kÃ©t Ãºj villamos mozdony vÃ¡rhatÃ³an jÃºniusban Ã¡llhat forgalomba.
 
 
-forrás 
+forrÃ¡s 
 
 VISSZA
 
 index.html
 
-Friss hírek
-Hírek röviden
-2017.09.15.	Tájékoztató a tanulók/hallgatók utazási kedvezményének igénybevételérõl
-2017.05.23.	Megérkezett az elsõ két Siemens Vectron a GYSEV flottájába
+Friss hÃ­rek
+HÃ­rek rÃ¶viden
+2017.09.15.	TÃ¡jÃ©koztatÃ³ a tanulÃ³k/hallgatÃ³k utazÃ¡si kedvezmÃ©nyÃ©nek igÃ©nybevÃ©telÃ©rÅ‘l
+2017.05.23.	MegÃ©rkezett az elsÅ‘ kÃ©t Siemens Vectron a GYSEV flottÃ¡jÃ¡ba
 Teszt3	Teszt3
 Teszt4	Teszt4
 Teszt5	Teszt5
 
-hirek1.html címe, dátuma, elsõ mondata, a link a hirek1.html-re vezet
-hirek2.html címe, dátuma, elsõ mondata, a link a hirek2.html-re vezet
+hirek1.html cÃ­me, dÃ¡tuma, elsÅ‘ mondata, a link a hirek1.html-re vezet
+hirek2.html cÃ­me, dÃ¡tuma, elsÅ‘ mondata, a link a hirek2.html-re vezet
 
-tezst3 generált szöveggel
-tezst4 generált szöveggel
-teszt5 generált szöveggel
-teszt6 generált szöveggel
+tezst3 generÃ¡lt szÃ¶veggel
+tezst4 generÃ¡lt szÃ¶veggel
+teszt5 generÃ¡lt szÃ¶veggel
+teszt6 generÃ¡lt szÃ¶veggel
 
-ELEJÉRE a link az index.html tetejére ugrik.
+ELEJÃ‰RE a link az index.html tetejÃ©re ugrik.
 
 
